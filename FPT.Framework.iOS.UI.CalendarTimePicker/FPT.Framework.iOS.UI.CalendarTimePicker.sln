@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPT.Framework.iOS.UI.CalendarTimePicker", "Lib\FPT.Framework.iOS.UI.CalendarTimePicker\FPT.Framework.iOS.UI.CalendarTimePicker.csproj", "{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Release|iPhone.Build.0 = Release|iPhone
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6A7E6538-BA23-413A-A6B4-FCE6145B6C3E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Release|iPhone.Build.0 = Release|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{F409421B-3B5C-4DE7-B5D2-4C64C0A249C7}.Debug|iPhone.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
